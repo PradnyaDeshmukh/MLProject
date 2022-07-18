@@ -1,0 +1,2 @@
+# MLProject
+Video processing webapp is developed in django framework with SQLite database as backend and HTML, CSS, JavaScript, Bootstrap as frontend.  This is a video shortening tool. The video can be shortened by performing various analysis on it using machine learning. The input video is preprocessed, segmented, features are extracted and then algorithms are applied. The final output is shortened video.
